@@ -12,4 +12,5 @@ import org.springframework.stereotype.Component;
 @Configuration
 @ComponentScan("com.example")
 public class SchedulConfig {
+
 }
